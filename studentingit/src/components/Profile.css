@@ -1,0 +1,54 @@
+.containerprofile{
+  background: black; border-radius: 5px; width: auto; height: 100vh;
+  margin: 30px;
+  padding: 20px;
+  position: relative;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+color: rgba(0,0,0,0.06);
+background-color: rgba(0,0,0,0.06);
+
+
+
+
+.containerp{
+  width: 1270px;
+  height: 500px;
+  background: rgba(0,0,0,0.06);
+  margin: 10px;
+  border-radius: 0px;
+  padding: 30px;
+  margin-left: 20px;
+  margin-right: 3px;
+  margin-bottom: 50px;
+
+}
+
+
+
+.username{
+font-family: system-ui;
+font-weight: 600;
+  color: black;
+  font-size: 24px;
+}
+.emailtext{
+
+  color: black;
+}
+
+
+
+.logout{
+
+  cursor: pointer;
+}
+
+}
+
+.profileload{
+
+  color: black;
+}

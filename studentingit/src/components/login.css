@@ -1,0 +1,15 @@
+.login-block{
+    float:left;
+    width:100%;
+    padding : 50px 0;
+}
+
+.container{background:#D3D3D3; border-radius: 10px; width: 40%; height: 40%;}
+.login-sec{padding: 50px 30px; position:relative;}
+.login-sec h2{margin-bottom:30px; margin-left: 100px; font-weight:800; font-size:30px; color: #f5f7f8;}
+.login-sec h2:after{content:" "; height:3px;width: 100px; background:#139add; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+.btn-login{background: #e9ecee; color: rgb(26, 45, 219); font-weight:600; border-radius: 15px; width: 100px;}
+.login-block{width: 600px;margin-left: 375px}
+.emailform{width: 550px;}
+.passwordform{width: 550px;}
+.login-sec h2:after{margin-left:  2px;margin-top: 8px;}
